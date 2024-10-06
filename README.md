@@ -1,4 +1,4 @@
-# notes-app
+# markdown-editor-app
 
 An Electron application with React and TypeScript
 
